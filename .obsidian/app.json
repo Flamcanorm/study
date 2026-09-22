@@ -3,5 +3,6 @@
   "useMarkdownLinks": true,
   "newLinkFormat": "relative",
   "newFileLocation": "current",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true
 }
